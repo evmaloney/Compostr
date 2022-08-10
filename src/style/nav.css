@@ -41,3 +41,10 @@
   width: 24px;
   height: 24px;
 }
+
+.navProfIcon {
+  background: url("../img/Vectorprof.png");
+  margin: 0 auto;
+  width: 24px;
+  height: 24px;
+}
