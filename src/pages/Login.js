@@ -1,9 +1,9 @@
 import '../style/Login.css';
 import logo from '../img/logo.png';
-import apple from '../img/apple.png';
-import facebook from '../img/facebook.png';
-import twitter from '../img/twitter.png';
-import google from '../img/google.png';
+// import apple from '../img/apple.png';
+// import facebook from '../img/facebook.png';
+// import twitter from '../img/twitter.png';
+// import google from '../img/google.png';
 import { useState } from 'react'
 import axios from 'axios'
 import { Link } from 'react-router-dom'
@@ -75,10 +75,10 @@ function Login() {
         <br />
         or
         <br />
-        <img src={apple} alt="apple" /> 
+        {/* <img src={apple} alt="apple" /> 
         <img src={facebook} alt="facebook" />
         <img src={twitter} alt="twitter" />
-        <img src={google} alt="google" />
+        <img src={google} alt="google" /> */}
 
     </div>
     )
