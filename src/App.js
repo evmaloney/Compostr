@@ -19,7 +19,7 @@ function App() {
           <Route path='/map' element={<Map />}/>
            <Route path='/main' element={<MainpageMap placement={"bottom"}/>}/>
         </Routes>
-      <BottomNav/>
+      {/* <BottomNav/> */}
       </BrowserRouter>
     </div>
   );
