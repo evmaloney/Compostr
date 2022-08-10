@@ -1,7 +1,7 @@
 import '../style/Login.css';
 import logo from '../img/logo.png';
 import at from '../img/at.png';
-import lock from '../img/lock.png';
+// import lock from '../img/lock.png';
 import facebook from '../img/cib_facebook.png';
 import twitter from '../img/cib_twitter.png';
 import instagram from '../img/cib_instagram.png';
@@ -24,7 +24,7 @@ const Login = () => {
         </span>
         <br />
         <span>
-          <img className="credsLogos" src={lock} alt="lock"/>
+          {/* <img className="credsLogos" src={lock} alt="lock"/> */}
           <input type="password" placeholder="Password"/>
         </span>
         <br />
