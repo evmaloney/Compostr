@@ -1,4 +1,4 @@
-.bottomNav {
+.bottomNav{
   position: absolute;
   width: 100%;
   display: flex;
@@ -10,39 +10,28 @@
 
   height: 88px;
   border-radius: 20px 20px 0px 0px;
-  bottom: 0px;
-  color: #44692B;
+  bottom:0px;
+  color:#44692B;
 
 }
-
-.navButt {
+.navButt{
   align-content: center;
   align-items: center;
   text-align: center;
 }
-
-.navSearchIcon {
+.navSearchIcon{
   background: url("../img/Vectorsearch.png");
   margin: 0 auto;
   width: 24px;
   height: 24px;
 }
-
-.navCommIcon {
+.navCommIcon{
   background: url("../img/Vectorcomm.png");
   margin: 0 auto;
   width: 24px;
   height: 24px;
 }
-
-.navProfIcon {
-  background: url("../img/Vectorprof.png");
-  margin: 0 auto;
-  width: 24px;
-  height: 24px;
-}
-
-.navProfIcon {
+.navProfIcon{
   background: url("../img/Vectorprof.png");
   margin: 0 auto;
   width: 24px;
